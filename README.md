@@ -1,7 +1,7 @@
 # B612_iOS_Project
 some small iOS project for learning
 
-> 如果下面的Gif读取不出，可以按这个地址。内容是一样的。
+### 如果下面的Gif读取不出，可以按这个地址。内容是一样的。
 地址:http://www.jianshu.com/p/d33ecc23efd7
 
 ## Raywenderish
