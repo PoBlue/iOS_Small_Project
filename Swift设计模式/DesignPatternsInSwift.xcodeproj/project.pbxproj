@@ -198,7 +198,7 @@
 				TargetAttributes = {
 					5D23FCF919D21A02003F5F4E = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = GETG429A5Z;
+						DevelopmentTeam = 5JZAUP3338;
 					};
 					5D23FD0E19D21A02003F5F4E = {
 						CreatedOnToolsVersion = 6.1;
@@ -391,6 +391,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = DesignPatternsInSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = blues.DesignPatternsInSwift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -405,6 +406,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = DesignPatternsInSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = blues.DesignPatternsInSwift;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
